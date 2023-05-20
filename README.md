@@ -5,10 +5,10 @@
 - 📫 How to reach me: andres.ruiz3561@gmail.com 
 
 
-Take a look at NODEJSAPPS for my PERN fullstack project from my latest work experience!
-Take a look at SERENITY for my frontend REACT creative project!
-Take a look at my 5851 Code for a JAVA project programming an autonomous robot!
-Take a look at INFOR Billing/Orders for my Python Selenium project with Shopify!
+Take a look at NODEJSAPPS for my PERN fullstack project from my latest work experience!\n
+Take a look at SERENITY for my frontend REACT creative project!\n
+Take a look at my 5851 Code for a JAVA project programming an autonomous robot!\n
+Take a look at INFOR Billing/Orders for my Python Selenium project with Shopify!\n
 
 <!--
 **Andresr35/Andresr35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
