@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my SERENITY Wesbite to use as a creative storefront.
+- 🌱 I’m currently learning frontend using React
+- 👯 I’m looking to collaborate on any frontend or backend project.
+- 📫 How to reach me: andres.ruiz3561@gmail.com 
+- Take a look at NODEJSAPPS for my PERN fullstack project from my latest work experience!
+- Take a look at SERENITY for my frontend REACT creative project!
+- Take a look at my 5851 Code for a JAVA project programming an autonomous robot!
+- Take a look at INFOR Billing/Orders for my Python Selenium project with Shopify!
+- 
 <!--
 **Andresr35/Andresr35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
