@@ -14,6 +14,11 @@ Take a look at my 5851-CODE for a JAVA project programming an autonomous robot!
 
 Take a look at INFOR Billing/Orders for my Python Selenium project with Shopify!
 
+
+Tools I use:
+
+- https://docs.emmet.io/cheat-sheet/
+- https://htmlcheatsheet.com/css/
 <!--
 **Andresr35/Andresr35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
