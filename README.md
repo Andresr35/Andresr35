@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,c,cpp,git,java,python,nextjs,react)](https://skillicons.dev)
 - 🔭 I’m currently working on my SERENITY Wesbite to use as a creative storefront.
-- 🌱 I’m currently learning frontend using the Odin Project.
+- 🌱 I’m currently [learning](https://github.com/stars/Andresr35/lists/the-odin-project "List of repo's from the Odin Project") frontend using [the Odin Project](https://www.theodinproject.com/about "Link to Odin Project").
 - 👯 I’m looking to collaborate on any frontend or software project.
 - 📫 How to reach me: andres.ruiz3561@gmail.com 
   
