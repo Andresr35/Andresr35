@@ -15,7 +15,7 @@ Take a look at my 5851-CODE for a JAVA project programming an autonomous robot!
 Take a look at INFOR Billing/Orders for my Python Selenium project with Shopify!
 
 
-Tools I use:
+Tools I use:<a target="_blank" rel="noopener" href="https://docs.emmet.io/cheat-sheet/"> emm</a>
 
 - [emmett](https://docs.emmet.io/cheat-sheet/)
 - [css cheat sheet](https://htmlcheatsheet.com/css/)
