@@ -20,6 +20,7 @@ Tools I use:
 - [emmett](https://docs.emmet.io/cheat-sheet/)
 - [css cheat sheet](https://htmlcheatsheet.com/css/)
 - [ESlint + Webpack](https://www.theodinproject.com/lessons/node-path-javascript-linting)
+- [Babel](https://babeljs.io/setup#installation)
 - [inspo✨✨](https://dribbble.com/shots)
 - [jest testing](https://jestjs.io/)
 <!--
