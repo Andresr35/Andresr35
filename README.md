@@ -17,10 +17,11 @@ Take a look at INFOR Billing/Orders for my Python Selenium project with Shopify!
 
 Tools I use:
 
-- https://docs.emmet.io/cheat-sheet/
-- https://htmlcheatsheet.com/css/
-- https://www.theodinproject.com/lessons/node-path-javascript-linting
-- https://dribbble.com/shots
+- [emmett](https://docs.emmet.io/cheat-sheet/)
+- [css cheat sheet](https://htmlcheatsheet.com/css/)
+- [ESlint + Webpack](https://www.theodinproject.com/lessons/node-path-javascript-linting)
+- [inspo✨✨](https://dribbble.com/shots)
+- [jest testing](https://jestjs.io/)
 <!--
 **Andresr35/Andresr35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
