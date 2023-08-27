@@ -23,6 +23,7 @@ Tools I use:
 - [Babel](https://babeljs.io/setup#installation)
 - [inspo✨✨](https://dribbble.com/shots)
 - [jest testing](https://jestjs.io/)
+- [normalize.css](https://necolas.github.io/normalize.css/)
 <!--
 **Andresr35/Andresr35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
