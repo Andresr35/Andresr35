@@ -23,6 +23,7 @@ Tools I use:
 - [jest testing](https://jestjs.io/)
 - [normalize.css](https://necolas.github.io/normalize.css/)
 - [lambdatest for escape tool](https://www.lambdatest.com/free-online-tools/html-escape)
+- [Vite](https://vitejs.dev/)
 <!--
 **Andresr35/Andresr35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
