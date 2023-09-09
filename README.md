@@ -20,7 +20,7 @@ Tools I use:
 - [ESlint + Webpack](https://www.theodinproject.com/lessons/node-path-javascript-linting)
 - [Babel](https://babeljs.io/setup#installation)
 - [inspo✨✨](https://dribbble.com/shots)
-- [jest testing](https://jestjs.io/)
+- [Vitest](https://www.robinwieruch.de/vitest-react-testing-library/)
 - [normalize.css](https://necolas.github.io/normalize.css/)
 - [lambdatest for escape tool](https://www.lambdatest.com/free-online-tools/html-escape)
 - [Vite](https://vitejs.dev/)
