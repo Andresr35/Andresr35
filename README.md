@@ -6,7 +6,7 @@
 
 Take a look at NODEJSAPPS for my PERN fullstack project from my latest work experience.
 
-Take a look at SERENITY for my frontend REACT creative project.
+Take a look at the Odin Project List on my stars list for my Full Stack learning experience!
 
 Take a look at  5851-CODE for a JAVA project programming an autonomous robot.
 
