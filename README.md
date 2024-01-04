@@ -26,6 +26,8 @@ Tools I use:
 - [lambdatest for escape tool](https://www.lambdatest.com/free-online-tools/html-escape)
 - [Vite](https://vitejs.dev/)
 - [RealTime Colors](https://www.realtimecolors.com/)
+- [Logos](https://simpleicons.org/?q=rail)
+- [Shields.IO](https://shields.io/badges)
 <!--
 **Andresr35/Andresr35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
