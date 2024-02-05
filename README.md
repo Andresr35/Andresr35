@@ -1,13 +1,13 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,c,cpp,git,java,python,nextjs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,c,cpp,python,react)](https://skillicons.dev)
 
 - 📫 How to reach me: andres.ruiz3561@gmail.com
 - Portfolio Website: <https://andresruiz.xyz>
   
 
-Take a look at NODEJSAPPS for my PERN fullstack project from my latest work experience.
+Take a look at Valtra for my PERN full-stack project from my latest work experience.
 
-Take a look at the Odin Project List on my stars list for my Full Stack learning experience!
+Take a look at the Odin Project List on my stars list for my full-stack learning experience!
 
 Take a look at  5851-CODE for a JAVA project programming an autonomous robot.
 
